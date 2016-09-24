@@ -40,7 +40,7 @@
     var service = this;
     var toBuy = [{name:"cookies", quantity:3}, {name:"beers", quantity:20},
                  {name:"bread", quantity:1}, {name:"milk", quantity:3},
-                 {name:"cucumber", quantity:2}
+                 {name:"cucumbers", quantity:2}
                 ];
     var bought = [];
 
